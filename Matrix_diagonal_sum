@@ -23,3 +23,23 @@ int main()
 
     return 0;
 }
+
+
+Input;
+3 3
+1 2 3
+4 5 6
+7 8 9
+
+Output:
+25
+
+Explaination -> (Sum of Diagonal elements) 1+5+9+3+7 -> 25
+
+
+
+
+
+
+
+
